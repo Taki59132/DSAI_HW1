@@ -1,4 +1,6 @@
 # DSAI_HW1
+## 操作環境
+* windows10, python3.6.12, pytorch1.6
 ## 使用說明
 * 可用參數
    - --training [filepath/filename.csv] 用於輸入 [filename].csv
