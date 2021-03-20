@@ -3,9 +3,9 @@
 * windows10, python3.6.12, pytorch1.6
 ## 使用說明
 * 可用參數
-   - --training [filepath/filename.csv] 用於輸入 [filename].csv
-   - --encoding 用於輸入資料編碼 ex: big5, utf-8
-   - --output [filepath/submission.csv] 用於輸出
+   - --training [filepath/filename.csv] 用於輸入資料檔案名稱
+   - --encoding [big5] 用於輸入資料編碼 ex: big5, utf-8
+   - --output [filepath/submission.csv] 用於輸出檔案名稱
 * 簡易使用
    - python main.py
 ## 個人說明
